@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -22,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0203-remove-linked-list-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
