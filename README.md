@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0013-roman-to-integer) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/3364-minimum-positive-sum-subarray) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
