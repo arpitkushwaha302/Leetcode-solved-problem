@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0094-binary-tree-inorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
