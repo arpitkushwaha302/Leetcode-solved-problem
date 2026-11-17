@@ -83,17 +83,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sliding Window
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Simulation
 |  |
