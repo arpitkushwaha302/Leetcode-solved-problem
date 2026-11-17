@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
