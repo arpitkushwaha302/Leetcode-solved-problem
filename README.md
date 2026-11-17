@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -61,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/arpitkushwaha302/Leetcode-solved-problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
